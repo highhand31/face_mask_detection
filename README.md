@@ -6,5 +6,7 @@
 
 ●Tensorflow version:1.13
 
+程式碼的詳細解說請至[影片連結](https://www.youtube.com/watch?v=JM2lUTSlbwg)
+
 ●流程圖如下
 ![flowchart](Face_mask_detection_flowchart.jpg)
